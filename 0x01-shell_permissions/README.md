@@ -15,7 +15,7 @@
 ### how to represente each of the three sets of permissions (owner, group, and other) as a single digit
 ***IDK if this part is right, so sorry 'bout that***
 this are examples how to use it
-- sudo chwon _<you>_ *some_file*
+- chwon _<you>_ *some_file*
 - chgrp *new_group* *some_file*
 - chmod *<permission>* _<filename>_
 
