@@ -10,7 +10,13 @@
 - chmod +rwx _<filename>_ to add permissions
 - chmod -rwx _<directoryname>_ to remove permissions
 - chmod +x _<filename>_ to allow executable permissions
-- chmod -wx _<filename>_ to take out wrte and executable permissions
+- chmod -wx _<filename>_ to take out wrte and executable permission
+
+### linux file identities
+- u= the user who owns the file 
+- g= the group to wuch the user belongs
+- o= other (not the owner or the owner's group
+- a= everyone or all (u,g and o)
 
 ### how to represente each of the three sets of permissions (owner, group, and other) as a single digit
 ***IDK if this part is right, so sorry 'bout that***
@@ -43,3 +49,7 @@ useradd _<username>_
 
 ### how to create a group
 groupadd _<groupname>_
+
+
+bibliography
+- [Ownership and Permissions] (https://mirrors.tripadvisor.com/centos-vault/4.4/docs/html/rhel-sbs-en-4/s1-navigating-ownership.html).
