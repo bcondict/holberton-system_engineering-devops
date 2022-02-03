@@ -1,4 +1,4 @@
-# General
+# 0x01. Shell, permissions
 ### what to do the commands _chmod_, _sudo_, _su_, _chgrp_ do
 - chmod= change the access permissions of file system object, known as mode
 - sudo= allows the ability to run some
