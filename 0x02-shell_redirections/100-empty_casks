@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type f -r -empty
+find -type f -empty | sort
