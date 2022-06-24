@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 # This script is displaying "Best School" 10 times
-# display "bad luck" insted of 4
-# display "good luck" instead of 8
 
 counter=1
 

@@ -1,8 +1,5 @@
 #!/usr/bin/env bash
 # diplay numbers fom 1 to 20
-# display "bad luck from China" at 4th loop iteration
-# display "bad luck from Japan" at 9th loop iteration
-# display "bad luck from Italy" at 17th loop iteration
 
 counter=1
 
